@@ -1,0 +1,9 @@
+# PyTorch is NOT listed here: install the CUDA build separately (see README -> Setup guide).
+transformers==5.18.0
+datasets==5.0.1
+accelerate==1.15.0
+peft==0.21.2
+sentencepiece==0.2.2
+protobuf==7.36.2
+pandas==3.0.6
+streamlit==1.65.0
